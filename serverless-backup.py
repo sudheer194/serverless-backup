@@ -5,7 +5,7 @@ import datetime
 
 # Set the global variables
 globalVars  = {}
-globalVars['Owner']                 = "Geopspark"
+globalVars['Owner']                 = "Geospark"
 globalVars['Environment']           = "Development"
 globalVars['REGION_NAME']           = "eu-central-1"
 globalVars['tagName']               = "Serverless-Automated-Backup"
